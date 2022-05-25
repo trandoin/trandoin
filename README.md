@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trandoin
-- 👀 I’m interested in Problem Solving
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m interested in Development 
+- 🌱 I’m currently Handeling the projects of different startups
 .
 
 <!---
